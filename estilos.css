@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1024px;
+    margin: auto;
+}
+#barraSuperior{
+    background-color: #ea970d;
+    height: 15px;
+}
+#segundaBarra{
+    background-color: #ffff00;
+    height: 100px;
+    text-align: center;
+    padding-top:  15px;
+}
+#terceraBarra{
+    background-color: #f0f3f8;
+    color: #037293;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#separadorRojo{
+    background-color: #c20c09;
+    width: 100px;
+    height: 10px;
+    margin-top: 5px;
+    margin-left: 450px;
+}
+#contenedorFormulario{
+    margin: auto;
+    padding: 5px;
+    border: 1px #2f81a2 solid;
+    width: 1000px;
+    border-radius: 10px;
+}
+
+#contenedorFinal{
+    background-color: #ea970d;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+}
